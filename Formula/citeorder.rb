@@ -1,8 +1,8 @@
 class Citeorder < Formula
-  desc "Simple command-line tool that reorders footnotes in Markdown"
+  desc "Simple command-line tool to relabel footnotes in Markdown files in numerical order"
   homepage "https://github.com/dhanushka2001/citeorder"
-  url "https://github.com/dhanushka2001/citeorder/archive/refs/tags/v1.1.tar.gz"
-  sha256 "0afcb3f7e63f159f75b299485353ff839bf8c35e933d6e58c4fc01f6347aeb15"
+  url "https://github.com/dhanushka2001/citeorder/archive/refs/tags/v1.1.2.tar.gz"
+  sha256 "2670f355153d2c547849760e8edbb0976d007ac2db5a627816cf94a053c7a74b"
   license "GPL-3.0"
 
   def install
