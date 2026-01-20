@@ -1,6 +1,6 @@
 # Homebrew Tap for citeorder
 
-This repository contains the [Homebrew](https://brew.sh) formula for installing **citeorder**,  
+This repository contains the [Homebrew](https://brew.sh) formula for installing [**citeorder**](https://github.com/dhanushka2001/citeorder),  
 a simple command-line tool that reorders footnotes in Markdown files.
 
 
